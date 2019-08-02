@@ -1,0 +1,5 @@
+# ecmascript-262 3rd edition
+About new operator 8.6.2 Internal Properties and Methods
+
+# ECMA SCRIPT history
+https://www.ecma-international.org/publications/standards/Ecma-262-arch.htm
